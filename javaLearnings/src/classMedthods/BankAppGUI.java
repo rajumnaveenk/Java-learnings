@@ -50,7 +50,7 @@ public class BankAppGUI extends JFrame {
 
 		// Frame settings
 		setTitle("Bank Account System");
-		setSize(400, 300);
+		setSize(750, 450);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setLayout(new BorderLayout());
 
