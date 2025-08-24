@@ -9,6 +9,7 @@ public class StackExample {
 
 		StackData.push(10);
 		StackData.push(20);
+		StackData.push(500);
 		StackData.push(30);
 
 		System.out.println("Stack list :" + StackData);
