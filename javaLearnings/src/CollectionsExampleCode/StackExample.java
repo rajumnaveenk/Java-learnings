@@ -12,8 +12,10 @@ public class StackExample {
 		StackData.push(500);
 		StackData.push(30);
 
-		System.out.println("Stack list :" + StackData);
-		System.out.println("Stack list :" + StackData.peek());
+//		System.out.println("Stack list :" + StackData);
+//		System.out.println("Stack list :" + StackData.peek());
+		
+		System.out.println("Removing the top element: "+StackData.pop());
 
 	}
 
